@@ -23,3 +23,6 @@ programa, el fichero compras.txt debería tener la información actualizada
 En los dos programas cada compra se puede almacenar en un diccionario y se
 debe usar al menos una función para el menú que devuelva un entero con la
 opción escogida y otra para cada una de las opciones.
+
+
+
