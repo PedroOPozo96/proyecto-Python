@@ -25,4 +25,10 @@ debe usar al menos una función para el menú que devuelva un entero con la
 opción escogida y otra para cada una de las opciones.
 
 
+#Comentario adicional del Proyecto.
+
+Este proyecto lo he ido modificando sobre el código, de la última entrega que se realizó en ese examen, por lo que tiene funciones 
+que se pidieron en el enunciado de ese examen como la de Añadir un precio nuevo, he conseguido también arreglos como que se modifique el contenido del fichero compras.txt tanto al añadir una compra como al eliminarla, también esto se aplica a la opción 4. productos por clientes en el caso de añadir o eliminar la compra de un producto repetido.
+
+
 
